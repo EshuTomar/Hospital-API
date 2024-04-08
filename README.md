@@ -1,4 +1,4 @@
-# Covid-19 API
+# Covid-19 Hospital API
 API for Doctors of a Hospital which has been allocated by the govt. for testing, quarantine as well as well being of COVID-19 patients. 
 
 #### Task
